@@ -48,3 +48,6 @@ xcuserdata/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+
+### Firebase ###
+GoogleService-Info.plist
